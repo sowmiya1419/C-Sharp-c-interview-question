@@ -92,7 +92,7 @@
 |84   | [What’s the difference between the System.Array.CopyTo() and System.Array.Clone()?	](# )|
 |85   | [Can Multiple Catch Blocks executed in c#?	](# )|
 |86   | [Difference between Throw Exception and Throw Clause.	](# )|
-|87   | [What is Indexer in C# .Net?	](# )|
+|87   | [What is Indexer in C# .Net	](# )|
 |88   | [What is multicast delegate in c#?	](# )|
 |89   | [Difference between Equality Operator (==) and Equals() Method in C#.	](# )|
 |90   | [Difference between “is” and “as” operator in C#.	](# )|
